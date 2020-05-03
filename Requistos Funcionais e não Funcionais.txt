@@ -1,0 +1,17 @@
+Requisitos funcionais e não funcionais.
+
+Funcionais:
+	Fazer o cadastro de cliente;
+	Compra de produtos;
+	O sistema tera uma lista de clientes;
+	O sistema tera que gerar relatórios;
+	controle do estoque;
+	O sistema tera o controle financeiro.
+	
+Não funcionais:
+	Cliente precisa autenticar para fazer cadastro com o cpf ;
+	O sistema nao pode ficar mais de 10 minutos fora do ar;
+	Não aceitar cadastro com o mesmo cpf;
+	Programação deve ser feita Orientada a Objetos;
+	Programa tem que abrir no maximo em 5 segundos; 
+	
